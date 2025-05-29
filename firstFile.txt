@@ -1,5 +1,5 @@
-First File Line 1
-First File Line 2
+First File Line 1 Updated from clone-repo
+First File Line 2 Updated from clone-repo
 First File Line 3
 First File Line 4
 First File Line 5
